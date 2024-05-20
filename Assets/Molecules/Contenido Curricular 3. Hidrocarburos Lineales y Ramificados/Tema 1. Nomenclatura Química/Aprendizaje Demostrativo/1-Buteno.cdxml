@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE CDXML SYSTEM "http://www.cambridgesoft.com/xml/cdxml.dtd" >
+<CDXML
+ CreationProgram="Chem3D 12.0.2.1076"
+ BondLength="30"
+><colortable>
+<color r="1" g="1" b="1"/>
+<color r="0" g="0" b="0"/>
+</colortable><page
+ id="1"
+><fragment
+ id="2"
+><n
+ id="3"
+ p="30 34.85"
+ xyz="30 34.85 31.83"
+/><n
+ id="4"
+ p="42.27 45.66"
+ xyz="42.27 45.66 11.19"
+/><n
+ id="5"
+ p="62.06 30"
+ xyz="62.06 30 -4.06"
+/><n
+ id="6"
+ p="73.04 46.76"
+ xyz="73.04 46.76 -26.39"
+/><b
+ id="7"
+ B="3"
+ E="4"
+ Order="2"
+/><b
+ id="8"
+ B="4"
+ E="5"
+/><b
+ id="9"
+ B="5"
+ E="6"
+/></fragment></page></CDXML>
