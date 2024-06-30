@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/3D Laboratory Environment with Appratus/Materials/Laboratory03_Other_01_BaseMap.mat.meta
 guid: a0b376915f4283c4e9db27aa35394b89
+========
+guid: 5071cc7251fe57a4fa8619c2a51c0273
+>>>>>>>> Donovan2:Assets/3D Laboratory Environment with Appratus/Materials/Laboratory03_Floor_BaseMap.mat.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000

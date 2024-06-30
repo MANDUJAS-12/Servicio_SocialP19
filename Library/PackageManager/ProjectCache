@@ -5,16 +5,26 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 638552922423373454
     m_Hash: 350904720
+=======
+      ticks: 638548559018580354
+    m_Hash: 3906599503
+>>>>>>> Donovan2
   m_LockFileStatus:
     m_FilePath: C:/Users/flaco/Desktop/Mis repositorios/Servicio_SocialP19/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 638552922423373454
     m_Hash: 2948799853
+=======
+      ticks: 638548559018590349
+    m_Hash: 1262461032
+>>>>>>> Donovan2
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -114,7 +124,10 @@ m_PackageAssets:
         - 2.1.0
         - 2.2.0
         - 2.3.1
+<<<<<<< HEAD
         - 2.4.3
+=======
+>>>>>>> Donovan2
         compatible:
         - 1.15.18
         - 1.17.0
@@ -1337,7 +1350,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.4
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Users\flaco\Desktop\Mis repositorios\Servicio_SocialP19\Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.4
+=======
+      resolvedPath: C:\Users\donov\OneDrive\Escritorio\Servicio Social\Servicio_SocialP19\Library\PackageCache\com.unity.xr.interaction.toolkit@2.0.4
+>>>>>>> Donovan2
       assetPath: Packages/com.unity.xr.interaction.toolkit
       name: com.unity.xr.interaction.toolkit
       displayName: XR Interaction Toolkit
@@ -1759,7 +1776,11 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
+<<<<<<< HEAD
       datePublishedTicks: 637904188480000000
+=======
+      datePublishedTicks: 637824469680000000
+>>>>>>> Donovan2
       documentationUrl: 
       hasRepository: 1
       repository:
